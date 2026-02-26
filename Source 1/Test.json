@@ -1,0 +1,37 @@
+{
+    "project": {
+        "project_id": "PRJ-001",
+        "project_name": "Website Localization Demo",
+        "source_language": "en-US",
+        "target_languages": [
+            "fr-FR",
+            "de-DE"
+        ]
+    },
+    "content": [
+        {
+            "id": "1",
+            "type": "text",
+            "key": "homepage_title",
+            "source": "Welcome to Our Website"
+        },
+        {
+            "id": "2",
+            "type": "text",
+            "key": "homepage_description",
+            "source": "We provide high-quality products for modern businesses."
+        },
+        {
+            "id": "3",
+            "type": "text",
+            "key": "cta_button",
+            "source": "Get Started Today"
+        },
+        {
+            "id": "4",
+            "type": "text",
+            "key": "footer_contact",
+            "source": "Contact us for more information."
+        }
+    ]
+}
