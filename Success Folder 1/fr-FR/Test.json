@@ -1,0 +1,37 @@
+{
+  "project": {
+    "project_id": "PRJ-001",
+    "project_name": "Démo de localisation de site Web",
+    "source_language": "en-US",
+    "target_languages": [
+      "fr-FR",
+      "De-DE"
+    ]
+  },
+  "content": [
+    {
+      "id": "1",
+      "type": "texte",
+      "key": "homepage_title",
+      "source": "Bienvenue sur notre site Web"
+    },
+    {
+      "id": "2",
+      "type": "texte",
+      "key": "homepage_description",
+      "source": "Nous fournissons des produits de haute qualité pour les entreprises modernes."
+    },
+    {
+      "id": "3",
+      "type": "texte",
+      "key": "cta_button",
+      "source": "Commencez dès aujourd'hui"
+    },
+    {
+      "id": "4",
+      "type": "texte",
+      "key": "footer_contact",
+      "source": "Contactez-nous pour plus d'informations."
+    }
+  ]
+}
