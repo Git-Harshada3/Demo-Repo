@@ -1,0 +1,27 @@
+{
+  "projectId": "proj_12345",
+  "projectName": "Figma Homepage Lokalisierung",
+  "status": "ReadyForCompletion",
+  "targetLanguages": [
+    {
+      "languageCode": "fr-FR",
+      "status": "Importiert"
+    },
+    {
+      "languageCode": "De-DE",
+      "status": "Abgebrochen"
+    },
+    {
+      "languageCode": "es-es",
+      "status": "Importiert"
+    }
+  ],
+  "canCompleteProject": true,
+  "completionValidation": {
+    "allLanguagesFinalized": true,
+    "allowedStates": [
+      "Importiert",
+      "Abgebrochen"
+    ]
+  }
+}

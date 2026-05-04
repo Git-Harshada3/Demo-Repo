@@ -1,0 +1,30 @@
+{
+  "projectId": "proj_67890",
+  "projectName": "FigmaアプリUI翻訳",
+  "status": "進行中",
+  "targetLanguages": [
+    {
+      "languageCode": "IT-IT",
+      "status": "インポート済み"
+    },
+    {
+      "languageCode": "ja-JP",
+      "status": "進行中"
+    },
+    {
+      "languageCode": "pt-BR",
+      "status": "保留中"
+    }
+  ],
+  "canCompleteProject": false,
+  "completionValidation": {
+    "allLanguagesFinalized": false,
+    "blockingStates": [
+      "進行中",
+      "保留中"
+    ]
+  },
+  "uiHint": {
+    "tooltip": "プロジェクト全体（Complete Project）は、すべてのターゲット言語がインポートまたはキャンセルされた場合にのみ使用可能である。"
+  }
+}

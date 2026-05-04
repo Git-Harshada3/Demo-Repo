@@ -1,0 +1,30 @@
+{
+  "projectId": "proj_67890",
+  "projectName": "Figma App UI-Übersetzung",
+  "status": "In Bearbeitung",
+  "targetLanguages": [
+    {
+      "languageCode": "IT-IT",
+      "status": "Importiert"
+    },
+    {
+      "languageCode": "Ja-JP",
+      "status": "In Bearbeitung"
+    },
+    {
+      "languageCode": "pt-BR",
+      "status": "Ausstehend"
+    }
+  ],
+  "canCompleteProject": false,
+  "completionValidation": {
+    "allLanguagesFinalized": false,
+    "blockingStates": [
+      "In Bearbeitung",
+      "Ausstehend"
+    ]
+  },
+  "uiHint": {
+    "tooltip": "Complete Project ist nur verfügbar, wenn alle Zielsprachen importiert oder sich selbst Schmerz zu verschaffen, weil es Schmerz ist, Sonder storniert werden."
+  }
+}
