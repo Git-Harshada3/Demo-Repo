@@ -1,0 +1,37 @@
+{
+  "project": {
+    "project_id": "PRiJ-0001",
+    "project_name": "Demo Zur Website-Lokalisierung",
+    "source_language": "de-US",
+    "target_languages": [
+      "fr-FR",
+      "De-DE"
+    ]
+  },
+  "content": [
+    {
+      "id": "1",
+      "type": "Text",
+      "key": "Homepage_title",
+      "source": "Willkommen auf unserer Website"
+    },
+    {
+      "id": "2",
+      "type": "Text",
+      "key": "Homepage_description",
+      "source": "Wir bieten hochwertige Produkte für moderne Unternehmen."
+    },
+    {
+      "id": "3",
+      "type": "Text",
+      "key": "cta_Button",
+      "source": "Starten Sie Noch Heute"
+    },
+    {
+      "id": "4",
+      "type": "Text",
+      "key": "Footer_contact",
+      "source": "Kontaktieren Sie uns für weitere Informationen oder senden Sie sich selbst Schmerz zu verschaffen, weil es Schmerz ist, Sonder"
+    }
+  ]
+}
