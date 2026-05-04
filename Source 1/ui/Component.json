@@ -1,10 +1,24 @@
 {
-    "project": {
-        "project_id": "PRiJ-0001",
-        "project_name": "Website Localization Demo",
-        "source_language": "en-US",
-        "target_languages": [
-            "fr-FR",
-            "de-DE"
-        ]
-   
+  "projectId": "proj_12345",
+  "projectName": "Figma Homepage Localization",
+  "status": "ReadyForCompletion",
+  "targetLanguages": [
+    {
+      "languageCode": "fr-FR",
+      "status": "Imported"
+    },
+    {
+      "languageCode": "de-DE",
+      "status": "Cancelled"
+    },
+    {
+      "languageCode": "es-ES",
+      "status": "Imported"
+    }
+  ],
+  "canCompleteProject": true,
+  "completionValidation": {
+    "allLanguagesFinalized": true,
+    "allowedStates": ["Imported", "Cancelled"]
+  }
+}
