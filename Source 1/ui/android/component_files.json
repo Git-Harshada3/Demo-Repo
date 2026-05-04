@@ -1,8 +1,27 @@
 {
-    "content": [
-        {
-            "id": "1",
-            "type": "text",
-            "key": "homepage_title",
-            "source": "Welcome to Our Website"
-        },
+  "projectId": "proj_67890",
+  "projectName": "Figma App UI Translation",
+  "status": "InProgress",
+  "targetLanguages": [
+    {
+      "languageCode": "it-IT",
+      "status": "Imported"
+    },
+    {
+      "languageCode": "ja-JP",
+      "status": "InProgress"
+    },
+    {
+      "languageCode": "pt-BR",
+      "status": "Pending"
+    }
+  ],
+  "canCompleteProject": false,
+  "completionValidation": {
+    "allLanguagesFinalized": false,
+    "blockingStates": ["InProgress", "Pending"]
+  },
+  "uiHint": {
+    "tooltip": "Complete Project is available only when all target languages are imported or cancelled."
+  }
+}
