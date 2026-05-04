@@ -1,1 +1,8 @@
-UX messaging reviewed and approved.o
+{
+    "content": [
+        {
+            "id": "1",
+            "type": "text",
+            "key": "homepage_title",
+            "source": "Welcome to Our Website"
+        },
