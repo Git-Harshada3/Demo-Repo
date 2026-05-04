@@ -1,2 +1,10 @@
-Break this into Dev tasks + subtasks (frontend/backend)
-Or convert into a PRD-style requirement with UI wireframe suggestions (helpful for your design team).
+{
+    "project": {
+        "project_id": "PRiJ-0001",
+        "project_name": "Website Localization Demo",
+        "source_language": "en-US",
+        "target_languages": [
+            "fr-FR",
+            "de-DE"
+        ]
+   
