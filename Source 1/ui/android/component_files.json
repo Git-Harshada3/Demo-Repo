@@ -22,6 +22,6 @@
     "blockingStates": ["InProgress", "Pending"]
   },
   "uiHint": {
-    "tooltip": "Complete Project is available only when all target languages are imported or cancelled."
+    "tooltip": "Complete your Project is available only when all target languages are imported or cancelled."
   }
 }
