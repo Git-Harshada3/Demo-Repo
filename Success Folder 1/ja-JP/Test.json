@@ -1,7 +1,7 @@
 {
   "project": {
     "project_id": "PRIJ-0001",
-    "project_name": "Webサイトローカリゼーションのデモ",
+    "project_name": "Webサイト2ローカリゼーションのデモ",
     "source_language": "en-US",
     "target_languages": [
       "fr-FR",
@@ -13,7 +13,7 @@
       "id": "1",
       "type": "テキスト",
       "key": "ホームページのタイトル",
-      "source": "当社のWebサイトへようこそ"
+      "source": "Webサイトページへようこそ"
     },
     {
       "id": "2",

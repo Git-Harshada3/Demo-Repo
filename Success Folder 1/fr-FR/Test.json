@@ -1,7 +1,7 @@
 {
   "project": {
     "project_id": "PRiJ-0001",
-    "project_name": "Démo de localisation de site Web",
+    "project_name": "Site Web 2Demo de localisation",
     "source_language": "en-US",
     "target_languages": [
       "fr-FR",
@@ -13,7 +13,7 @@
       "id": "1",
       "type": "texte",
       "key": "homepage_title",
-      "source": "Bienvenue sur notre site Web"
+      "source": "Bienvenue sur notre page Web"
     },
     {
       "id": "2",
