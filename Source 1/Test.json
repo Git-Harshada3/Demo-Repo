@@ -1,6 +1,6 @@
 {
     "project": {
-        "project_id": "PRJ-001",
+        "project_id": "PRJ-0001",
         "project_name": "Website Localization Demo",
         "source_language": "en-US",
         "target_languages": [
