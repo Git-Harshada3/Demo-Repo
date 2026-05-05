@@ -1,7 +1,7 @@
 {
     "project": {
         "project_id": "PRiJ-0001",
-        "project_name": "Website Localization Demo content",
+        "project_name": "Website Localization Demo testing content",
         "source_language": "en-US",
         "target_languages": [
             "fr-FR",
