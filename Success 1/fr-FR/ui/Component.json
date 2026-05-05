@@ -1,0 +1,27 @@
+{
+  "projectId": "proj_12345",
+  "projectName": "Page d'accueil Figma test de localisation contenu uodated",
+  "status": "ReadyForCompletion",
+  "targetLanguages": [
+    {
+      "languageCode": "fr-FR",
+      "status": "Importé"
+    },
+    {
+      "languageCode": "De-DE",
+      "status": "Annulé"
+    },
+    {
+      "languageCode": "es-ES",
+      "status": "Importé"
+    }
+  ],
+  "canCompleteProject": true,
+  "completionValidation": {
+    "allLanguagesFinalized": true,
+    "allowedStates": [
+      "Importé",
+      "Annulé"
+    ]
+  }
+}
