@@ -21,7 +21,8 @@
     "allLanguagesFinalized": true,
     "allowedStates": [
       "Importé",
-      "Annulé"
+      "Annulé",
+      "Extra pour les tests"
     ]
   }
 }
