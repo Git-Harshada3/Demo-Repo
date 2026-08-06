@@ -25,6 +25,6 @@
     ]
   },
   "uiHint": {
-    "tooltip": "L'option Terminer le projet n'est disponible que lorsque toutes les langues cibles sont importées ou annulées."
+    "tooltip": "L'option Terminer le projet n'est disponible que lorsque toutes les langues cibles sont importées ou annulées. Extra pour les tests"
   }
 }
