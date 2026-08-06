@@ -19,6 +19,6 @@
   "canCompleteProject": true,
   "completionValidation": {
     "allLanguagesFinalized": true,
-    "allowedStates": ["Imported", "Cancelled"]
+    "allowedStates": ["Imported", "Cancelled","Extra for testing"]
   }
 }
