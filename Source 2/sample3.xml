@@ -4,5 +4,5 @@
   <orderId>{{orderId}}</orderId>
   <status>Confirmed</status>
   <delivery>3-5 business days</delivery>
-  <note>Thank you for your purchase!Extra for testing</note>
+  <note>Thank you for your purchase!Extra for testing! again for testing</note>
 </order>
