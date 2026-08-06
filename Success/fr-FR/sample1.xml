@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<application>
+  <title>Mon application Shopping</title>
+  <welcome>Bienvenue, {{username}} !</welcome>
+  <button>Continuer</button>
+  <message>Merci d&apos;utiliser notre application.</message>
+</application>
