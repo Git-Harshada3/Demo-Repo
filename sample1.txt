@@ -1,0 +1,8 @@
+Welcome to the Translation Demo
+
+This is a sample text file used for localization testing.
+
+Features: - Simple plain text - Multiple lines - Numbers: 12345 -
+Placeholder: {{userName}}
+
+Thank you!
