@@ -3,5 +3,5 @@
   "fileExtensions": {
     "exclude": [".json"]
   },
-  "forceTranslateAll": true
+  "forceTranslateAll": false
 }
