@@ -1,6 +1,0 @@
-Product Information
-
-Product Name: Smart Speaker Description: A compact wireless speaker with
-voice assistant support. Color: Black Price: $99.99
-
-For assistance, contact support@example.com.
