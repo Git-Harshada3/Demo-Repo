@@ -1,0 +1,23 @@
+{
+  "project": "Translation Testing Project",
+  "source_language": "en-US",
+  "target_languages": [
+    "de-DE",
+    "fr-FR",
+    "es-ES"
+  ],
+  "content": [
+    {
+      "id": "001",
+      "title": "Welcome to our website",
+      "description": "Explore our latest products and services.",
+      "body": "We are committed to delivering simple, reliable solutions for our customers."
+    },
+    {
+      "id": "002",
+      "title": "Product Information",
+      "description": "Learn more about this product.",
+      "body": "This product is designed to help teams work faster and more efficiently."
+    }
+  ]
+}
