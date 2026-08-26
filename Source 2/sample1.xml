@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
   <title>My Shopping App</title>
-  <welcome>Welcome, {{userName}}!</welcome>
+  <welcome>Welcome, {{userName}}!</welcome home>
   <button>Continue</button>
   <message>Thank you for using our application.</message>
 </application>
