@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<order>
-  <customer>{{CustomerName}}</customer>
-  <orderId>{{orderId}}</orderId>
-  <status>Confirmé</status>
-  <delivery>3-5 jours ouvrables</delivery>
-  <note>Merci pour votre achat ! Extra pour les tests ! encore une fois pour le test</note>
-</order>
